@@ -2,6 +2,15 @@
 Este es un repositorio en donde encontraras el mismo Readme de mi perfil, pero para que lo puedas descargar de manera mas comoda
 
 ---
+
+# ****************** Links ******************
+*  [Cloudinary](https://cloudinary.com/)
+* [Iconos de Devicon](https://icongr.am/devicon)
+* [Emonjies](https://gist.github.com/rxaviers/7360908)
+* [Badges Estáticos](https://github.com/Ileriayo/markdown-badges)
+* [Badges Dinámicos](https://shields.io/badges/static-badge)
+
+
 ---
 ---
 
